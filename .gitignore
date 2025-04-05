@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+pandasai.log/
+.chainlit/
+exports/
+.qodo/
+cache/

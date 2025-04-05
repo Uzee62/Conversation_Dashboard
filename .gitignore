@@ -1,8 +1,8 @@
 __pycache__/
-.env
+.env/
 venv/
 pandasai.log/
 .chainlit/
 exports/
 .qodo/
-cache/
+cache/.env
